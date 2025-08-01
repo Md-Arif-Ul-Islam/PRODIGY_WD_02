@@ -1,5 +1,5 @@
 # PRODIGY_WD_02
-# Stopwatch Web Application
+# Stopwatch Web Application.
 
 A simple stopwatch web application developed by Md Arif Ul Islam
 
